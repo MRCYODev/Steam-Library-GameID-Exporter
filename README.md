@@ -24,7 +24,15 @@
 </b>
 </p>
 
+
+
 ---
+
+
+| :warning: WARNING          |
+|:---------------------------|
+| This script may not work as expected if you don't have a minimum of $5 added to your Steam account. Steam's API may impose restrictions on accounts without a sufficient balance, potentially affecting the accuracy of the results.    |
+
 
 ## Overview
 
@@ -96,3 +104,4 @@ This project is open-source and is available under the [MIT License](https://git
 
 ## Feedback and Contributions
 If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/MRCYODev/Steam-Library-GameID-Exporter/issues) or feel free to submit a pull request.
+
