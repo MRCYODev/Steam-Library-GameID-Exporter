@@ -24,6 +24,9 @@
 </b>
 </p>
 
+[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=U3VMA6UAZLUAN)
+[![license](https://img.shields.io/github/license/nhn/tui.editor.svg)](https://github.com/MRCYODev/Steam-Library-GameID-Exporter/blob/main/LICENSE)
+[![Downloads](https://img.shields.io/github/downloads/MRCYODev/Steam-Library-GameID-Exporter/total.svg)]()
 
 
 ---
