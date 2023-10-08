@@ -18,6 +18,12 @@
   <a href="#feedback-and-contributions">Feedback and Contributions</a>
 </p>
 
+<p align="center">
+<b>
+<a href="https://github.com/MRCYODev/Steam-Library-GameID-Exporter/releases/download/1.0.0/main.zip">Download zip</a>
+</b>
+</p>
+
 ---
 
 ## Overview
