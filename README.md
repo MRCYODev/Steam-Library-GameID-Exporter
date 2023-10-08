@@ -74,6 +74,10 @@ npm install
 ```
 node index.js
 ```
+or
+```
+node name-ids.js
+```
 
 2. The script will make an API request to Steam, retrieve your game IDs, and export them to a text file named "exportedIDS.txt" in the project directory.
 
